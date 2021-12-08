@@ -1,6 +1,4 @@
-# 张帼玮 Guowei Zhang
-
-I work in computer architecture and computer systems.
+## Education
 
 In 2020, I earned a Ph.D. in Computer Science from MIT. My advisor was
 [Professor Daniel Sanchez](https://people.csail.mit.edu/sanchez).
