@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome!
-logo:/files/img/me.jpg
-desciption: Guowei Zhang's Homepage
+logo: /files/img/me.jpg
+description: Guowei Zhang's Homepage
 google_analytics: UA-73202302-2
