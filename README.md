@@ -21,7 +21,8 @@ In Proceedings of the 26th ACM International Conference on Architectural Support
 
 - **Extending memory system semantics to accelerate irregular applications**\
 <ins>Guowei Zhang</ins>\
-Ph.D. Thesis, MIT, December 2020
+Ph.D. Thesis, MIT, December 2020\
+[[Thesis]](https://dspace.mit.edu/handle/1721.1/130774)
 
 - **Leveraging Caches to Accelerate Hash Tables and Memoization**\
 <ins>Guowei Zhang</ins> and Daniel Sanchez\
@@ -42,7 +43,9 @@ In Proceedings of the 49th annual IEEE/ACM international symposium on Microarchi
 - **Architectural Support to Exploit Commutativity in Shared-Memory Systems**\
 <ins>Guowei Zhang</ins>\
 Master Thesis, MIT, June 2016\
-<span style="color:red">William Martin Thesis Award for outstanding Master's thesis in computer science at MIT</span>
+<span style="color:red">William Martin Thesis Award for outstanding Master's thesis in computer science at MIT</span>\
+[[Thesis]](https://dspace.mit.edu/handle/1721.1/106073)
+
 
 - **Exploiting Commutativity to Reduce the Cost of Updates to Shared Data in Cache-Coherent Systems**\
 <ins>Guowei Zhang</ins>, Webb Horn, and Daniel Sanchez\
