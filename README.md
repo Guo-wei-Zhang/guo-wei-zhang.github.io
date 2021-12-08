@@ -1,4 +1,6 @@
-### Education
+# 张帼玮 Guowei Zhang
+
+## Education
 
 In 2020, I earned a Ph.D. in Computer Science from MIT. My advisor was
 [Professor Daniel Sanchez](https://people.csail.mit.edu/sanchez).
@@ -10,7 +12,7 @@ In 2014, I earned a Bachelor Degree in Microelectronics and a Second Bachelor De
 I was an exchange student at University of Southern California in 2013, where I worked with
 [Professor Peter Beerel](https://viterbi.usc.edu/directory/faculty/Beerel/Peter).
 
-### Publications
+## Publications
 
 - **Gamma: Leveraging Gustavson’s Algorithm to Accelerate Sparse Matrix Multiplication**\
 <ins>Guowei Zhang</ins>, Nithya Attaluri, Joel Emer, and Daniel Sanchez\
@@ -55,4 +57,11 @@ In Proceedings of the 48th annual IEEE/ACM international symposium on Microarchi
 <ins>Guowei Zhang</ins> and Peter A. Beerel\
 In Proceedings of the conference on Design, Automation & Test in Europe (DATE-2014), March 2014\
 [[Paper]](/files/2014.br.date.pdf)
+
+## Links
+
+- [简历](/files/cv_cn_2021_04.pdf)
+- [CV](/files/cv_en_2021_04.pdf)
+- [Email](mailto:zhanggw@alum.mit.edu)
+- [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
 
