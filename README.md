@@ -1,5 +1,5 @@
-# 张帼玮
-# Guowei Zhang
+# 张帼玮  
+Guowei Zhang
 
 I work in computer architecture and computer systems.
 
@@ -16,6 +16,7 @@ I was an exchange student at University of Southern California in 2013, where I 
 ## Publications
 
 - **Gamma: Leveraging Gustavson’s Algorithm to Accelerate Sparse Matrix Multiplication**\
+[Paper](/files/2021.gamma.asplos.pdf)\
 <ins>Guowei Zhang</ins>, Nithya Attaluri, Joel Emer, and Daniel Sanchez\
 In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-26), April 2021
 
@@ -24,14 +25,17 @@ In Proceedings of the 26th ACM International Conference on Architectural Support
 Ph.D. Thesis, MIT, December 2020
 
 - **Leveraging Caches to Accelerate Hash Tables and Memoization**\
+[Paper](/files/2019.hta.micro.pdf)\
 <ins>Guowei Zhang</ins> and Daniel Sanchez\
 In Proceedings of the 52th annual IEEE/ACM international symposium on Microarchitecture (MICRO-52), October 2019
 
 - **Leveraging Hardware Caches for Memoization**\
+[Paper](/files/2017.mcache.cal.pdf)\
 <ins>Guowei Zhang</ins> and Daniel Sanchez\
 In IEEE Computer Architecture Letters (CAL), 2017
 
 - **Exploiting Semantic Commutativity in Hardware Speculation**\
+[Paper](/files/2016.commtm.micro.pdf)\
 <ins>Guowei Zhang</ins>, Virginia Chiu, and Daniel Sanchez\
 In Proceedings of the 49th annual IEEE/ACM international symposium on Microarchitecture (MICRO-49), October 2016\
 <span style="color:red">IEEE Micro’s Top Picks 2016 Honorable Mention</span>
@@ -42,11 +46,13 @@ Master Thesis, MIT, June 2016\
 <span style="color:red">William Martin Thesis Award for outstanding Master's thesis in computer science at MIT</span>
 
 - **Exploiting Commutativity to Reduce the Cost of Updates to Shared Data in Cache-Coherent Systems**\
+[Paper](/files/2015.coup.micro.pdf)\
 <ins>Guowei Zhang</ins>, Webb Horn, and Daniel Sanchez\
 In Proceedings of the 48th annual IEEE/ACM international symposium on Microarchitecture (MICRO-48), December 2015\
 <span style="color:red">Best Paper Award</span>
 
 - **Stochastic analysis of Bubble Razor**\
+[Paper](/files/2014.br.date.pdf)\
 <ins>Guowei Zhang</ins> and Peter A. Beerel\
 In Proceedings of the conference on Design, Automation & Test in Europe (DATE-2014), March 2014
 
@@ -55,4 +61,4 @@ In Proceedings of the conference on Design, Automation & Test in Europe (DATE-20
 - [Email](mailto:zhanggw@alum.mit.edu)
 - [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
 - [CV(English)](/files/cv_en_2021_04.pdf)
-- [CV(中文)]()
+- [CV(中文)](/files/cv_cn_2021_04.pdf)
