@@ -53,5 +53,5 @@ In Proceedings of the conference on Design, Automation & Test in Europe (DATE-20
 
 - [Email](mailto:zhanggw@alum.mit.edu)
 - [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
-- [CV(English)]()
+- [CV(English)](/files/cv_en_2021_04.pdf)
 - [CV(中文)]()
