@@ -1,4 +1,4 @@
-# 张帼玮 Guowei Zhang
+# 张帼玮
 
 ## Education
 
