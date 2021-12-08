@@ -58,9 +58,3 @@ In Proceedings of the 48th annual IEEE/ACM international symposium on Microarchi
 In Proceedings of the conference on Design, Automation & Test in Europe (DATE-2014), March 2014\
 [[Paper]](/files/2014.br.date.pdf)
 
-## Links
-
-- [Email](mailto:zhanggw@alum.mit.edu)
-- [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
-- [CV(English)](/files/cv_en_2021_04.pdf)
-- [CV(中文)](/files/cv_cn_2021_04.pdf)
