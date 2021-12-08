@@ -1,5 +1,4 @@
-# 张帼玮  
-Guowei Zhang
+# 张帼玮 Guowei Zhang
 
 I work in computer architecture and computer systems.
 
@@ -16,9 +15,9 @@ I was an exchange student at University of Southern California in 2013, where I 
 ## Publications
 
 - **Gamma: Leveraging Gustavson’s Algorithm to Accelerate Sparse Matrix Multiplication**\
-[Paper](/files/2021.gamma.asplos.pdf)\
 <ins>Guowei Zhang</ins>, Nithya Attaluri, Joel Emer, and Daniel Sanchez\
-In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-26), April 2021
+In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-26), April 2021\
+[[Paper]](/files/2021.gamma.asplos.pdf)
 
 - **Extending memory system semantics to accelerate irregular applications**\
 <ins>Guowei Zhang</ins>\
