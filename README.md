@@ -14,6 +14,11 @@ I was an exchange student at University of Southern California in 2013, where I 
 
 ## Publications
 
+- **A scalable architecture for reprioritizing ordered parallelism**\
+Gilead Posluns, Yan Zhu, <ins>Guowei Zhang</ins>, and Mark C. Jeffrey\
+In In Proceedings of the 49th ACM/IEEE International Symposium on Computer Architecture (ISCA-49), June 2022\
+[[Paper]](/files/2022.hive.isca.pdf)
+
 - **Gamma: Leveraging Gustavson’s Algorithm to Accelerate Sparse Matrix Multiplication**\
 <ins>Guowei Zhang</ins>, Nithya Attaluri, Joel Emer, and Daniel Sanchez\
 In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-26), April 2021\
