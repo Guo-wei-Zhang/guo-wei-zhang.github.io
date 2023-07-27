@@ -14,6 +14,11 @@ I was an exchange student at University of Southern California in 2013, where I 
 
 ## Publications
 
+- **Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?**\
+Javad Abdi, <ins>Guowei Zhang</ins>, and Mark C. Jeffrey\
+In Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'23), June 2023\
+[[Paper]](/files/2023.rust.spaa.pdf)
+
 - **A scalable architecture for reprioritizing ordered parallelism**\
 Gilead Posluns, Yan Zhu, <ins>Guowei Zhang</ins>, and Mark C. Jeffrey\
 In Proceedings of the 49th ACM/IEEE International Symposium on Computer Architecture (ISCA-49), June 2022\
