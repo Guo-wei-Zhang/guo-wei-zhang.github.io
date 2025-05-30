@@ -14,6 +14,11 @@ I was an exchange student at University of Southern California in 2013, where I 
 
 ## Publications
 
+- **Hierarchical Prefetching: A Software-Hardware Instruction Prefetcher for Server Applications**\
+Tingji Zhang, Boris Grot, Wenjian He, Yashuai Lv, Peng Qu, Fang Su, Wenxin Wang, <ins>Guowei Zhang</ins>, Xuefeng Zhang, Youhui Zhang\
+In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'25), March 2025\
+[[Paper]](/files/2025.hierpref.asplos.pdf)
+
 - **Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?**\
 Javad Abdi, <ins>Guowei Zhang</ins>, and Mark C. Jeffrey\
 In Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'23), June 2023\
@@ -70,8 +75,8 @@ In Proceedings of the conference on Design, Automation & Test in Europe (DATE-20
 
 ## Links
 
-- [简历](/files/cv_cn_2021_04.pdf)
-- [CV](/files/cv_en_2021_04.pdf)
+- [简历(2021年4月)(/files/cv_cn_2021_04.pdf)
+- [CV(April 2021)](/files/cv_en_2021_04.pdf)
 - [Email](mailto:zhanggw@alum.mit.edu)
 - [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
 
