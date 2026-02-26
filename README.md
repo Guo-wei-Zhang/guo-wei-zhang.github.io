@@ -75,7 +75,7 @@ In Proceedings of the conference on Design, Automation & Test in Europe (DATE-20
 
 ## Links
 
-- [简历(2021年4月)(/files/cv_cn_2021_04.pdf)
+- [简历(2021年4月)](/files/cv_cn_2021_04.pdf)
 - [CV(April 2021)](/files/cv_en_2021_04.pdf)
 - [Email](mailto:zhanggw@alum.mit.edu)
 - [Google Scholar](https://scholar.google.com/citations?user=m_tTfKkAAAAJ&hl=en)
