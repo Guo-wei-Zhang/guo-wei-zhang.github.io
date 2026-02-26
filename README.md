@@ -14,10 +14,15 @@ I was an exchange student at University of Southern California in 2013, where I 
 
 ## Publications
 
+- **RICH Prefetcher: Storing Rich Information in Memory to Trade Capacity and Bandwidth for Latency Hiding**\
+Ningzhi Ai, Wenjian He, Hu He, Jing Xia, Heng Liao, <ins>Guowei Zhang</ins>\
+In Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25), October 2025\
+[[Paper]](https://dl.acm.org/doi/full/10.1145/3725843.3756081)
+
 - **Hierarchical Prefetching: A Software-Hardware Instruction Prefetcher for Server Applications**\
 Tingji Zhang, Boris Grot, Wenjian He, Yashuai Lv, Peng Qu, Fang Su, Wenxin Wang, <ins>Guowei Zhang</ins>, Xuefeng Zhang, Youhui Zhang\
 In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'25), March 2025\
-[[Paper]](/files/2025.hierpref.asplos.pdf)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3676641.3716260)
 
 - **Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?**\
 Javad Abdi, <ins>Guowei Zhang</ins>, and Mark C. Jeffrey\
