@@ -14,6 +14,10 @@ I was an exchange student at University of Southern California in 2013, where I 
 
 ## Publications
 
+- **SHyLA: 3D-Stacked NVM-DRAM Hybrid LLM-Inference Architecture Exploiting Data and Memory Heterogeneity**\
+Liu He, Fuyao Zhou, Cheng Peng, Shunan Dong, Ziming Zhang, Huazhong Yang, Yongpan Liu, <ins>Guowei Zhang</ins>, Hongyang Jia\
+In Proceedings of the 53th ACM/IEEE International Symposium on Computer Architecture (ISCA-53), June 2026
+
 - **RICH Prefetcher: Storing Rich Information in Memory to Trade Capacity and Bandwidth for Latency Hiding**\
 Ningzhi Ai, Wenjian He, Hu He, Jing Xia, Heng Liao, <ins>Guowei Zhang</ins>\
 In Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25), October 2025\
